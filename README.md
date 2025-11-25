@@ -40,7 +40,7 @@ O modelo foi avaliado utilizando a métrica **MAE (Mean Absolute Error)**.
 
 ![Feature Importance](features_importantes.png)
 
-## 🚀 Como Executar
+## 🚀 Repositório
 
 1. Clone o repositório:
    ```bash
