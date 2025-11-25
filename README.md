@@ -38,7 +38,7 @@ O modelo foi avaliado utilizando a métrica **MAE (Mean Absolute Error)**.
 **2. Importância das Features**
 *As variáveis que mais impactaram na decisão de preço do modelo.*
 
-![Feature Importance](feature_importante.png)
+![Feature Importance](features_importantes.png)
 
 ## 🚀 Como Executar
 
