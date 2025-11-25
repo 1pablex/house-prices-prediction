@@ -44,4 +44,4 @@ O modelo foi avaliado utilizando a métrica **MAE (Mean Absolute Error)**.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+   git clone https://github.com/1pablex/house-prices-prediction.git
