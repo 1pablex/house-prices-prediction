@@ -24,21 +24,21 @@ O projeto implementa um **Pipeline** que automatiza:
 
 O modelo foi avaliado utilizando a métrica **MAE (Mean Absolute Error)**.
 
-> **Erro Médio Absoluto (MAE):** $XXXXX.XX  
-> *(Substitua XXXXX.XX pelo valor que apareceu no seu print, ex: $17,500.42)*
+> **Erro Médio Absoluto (MAE):** $17,711.25 
+
 
 ### Visualizações
 
 **1. Previsão vs. Realidade**
 *O gráfico abaixo mostra a correlação entre os valores preditos pelo modelo e os valores reais de venda.*
 
-![Gráfico Real vs Previsto](caminho_da_imagem_aqui.png)
-*(Dica: Faça upload da imagem do gráfico no GitHub e coloque o nome dela aqui, ex: real_vs_predicted.png)*
+![Gráfico Real vs Previsto](realxprevisto.png)
+
 
 **2. Importância das Features**
 *As variáveis que mais impactaram na decisão de preço do modelo.*
 
-![Feature Importance](caminho_da_imagem_aqui.png)
+![Feature Importance](feature_importante.png)
 
 ## 🚀 Como Executar
 
