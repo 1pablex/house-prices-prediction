@@ -6,10 +6,10 @@ O objetivo principal foi construir um pipeline robusto de processamento de dados
 
 ## 🛠 Tecnologias Utilizadas
 
-* **Python** (Linguagem principal)
-* **Pandas & NumPy** (Manipulação de dados)
-* **Scikit-Learn** (Modelagem e Pré-processamento)
-* **Matplotlib & Seaborn** (Visualização de dados)
+* **Python**
+* **Pandas & NumPy**
+* **Scikit-Learn**
+* **Matplotlib & Seaborn**
 
 ## 🧠 O Modelo
 
